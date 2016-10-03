@@ -3,6 +3,7 @@
 /*@import '~https://fonts.googleapis.com/icon?family=Material+Icons';*/
 @import '~https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css';
 @import '~@angular/material/core/theming/prebuilt/indigo-pink.css';
+@import '~core-flex-grid/dist/core-flex-grid.min.css';
 
 body {
   margin: 0;
