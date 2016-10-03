@@ -7,7 +7,8 @@ nav a {
   border-radius: 4px;
 }
 nav a:visited, a:link {
-  color: #607D8B;
+  /*color: #607D8B;*/
+  color: #CFD8DC;
 }
 nav a:hover {
   color: #039be5;
