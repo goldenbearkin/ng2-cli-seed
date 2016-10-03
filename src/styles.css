@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*@import '~https://fonts.googleapis.com/icon?family=Material+Icons';*/
+@import '~https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css';
+@import '~@angular/material/core/theming/prebuilt/indigo-pink.css';
+
+body {
+  margin: 0;
+  /*font-family: Roboto, sans-serif;*/
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+a {
+  cursor: pointer;
+  cursor: hand;
+}
